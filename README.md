@@ -6,3 +6,4 @@ A blogging site created using flask.
 2. Add a gallery feature.
 3. Add like buttons to posts.
 4. Delete image files after profile pic are changed/deleted.
+5. Correct datetime for posts.
